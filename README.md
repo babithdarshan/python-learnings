@@ -1,2 +1,1 @@
-# python-learnings
-consists of python oops concepts
+# Python-Basics
